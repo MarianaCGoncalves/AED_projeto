@@ -172,18 +172,3 @@ public void AddLogo(String urlImagem, String logotype, String outputImagePath, d
   
   } 
 }
-
-
-    
-   
-
-  
-
-
-  
-
-    
-    
-    
-
-        
